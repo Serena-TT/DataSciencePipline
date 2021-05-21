@@ -2,4 +2,4 @@
 
 > E1：[用 python 实现 Flask+Docker 机器学习预测网络接口](https://xaviervasques.medium.com/machine-learning-prediction-in-real-time-using-docker-and-python-rest-apis-with-flask-4235aa2395eb)   
 
-> E2:[python 实现多臂老虎机](https://towardsdatascience.com/multi-armed-bandits-upper-confidence-bound-algorithms-with-python-code-a977728f0e2d)
+> E2：[python 实现多臂老虎机](https://towardsdatascience.com/multi-armed-bandits-upper-confidence-bound-algorithms-with-python-code-a977728f0e2d)
